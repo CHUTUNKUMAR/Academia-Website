@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CHUTUNKUMAR.github.io/Academia-Website/static/css/main.79d06aad.css",
+    "main.js": "/CHUTUNKUMAR.github.io/Academia-Website/static/js/main.08ce298b.js",
+    "static/media/back.webp": "/CHUTUNKUMAR.github.io/Academia-Website/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/CHUTUNKUMAR.github.io/Academia-Website/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/CHUTUNKUMAR.github.io/Academia-Website/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/CHUTUNKUMAR.github.io/Academia-Website/index.html",
+    "main.79d06aad.css.map": "/CHUTUNKUMAR.github.io/Academia-Website/static/css/main.79d06aad.css.map",
+    "main.08ce298b.js.map": "/CHUTUNKUMAR.github.io/Academia-Website/static/js/main.08ce298b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d06aad.css",
+    "static/js/main.08ce298b.js"
+  ]
+}
